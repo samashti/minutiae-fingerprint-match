@@ -20,7 +20,7 @@ thereby extracting correct minutiae points and used to match fingerprints in one
 The current implementation only focuses on improving alternatives for the image enhancement process, leading consequently to an increase of the reliability in the minutiae extraction task. The task gets very slow in case of one-to-many fingerprint matching when the database has a huge set of fingerprints.
 
 
-Read the [report](https://github.com/nsh-764/MinutiaeFingerprintMatch/Docs/report.pdf) and [presentation](https://github.com/nsh-764/MinutiaeFingerprintMatch/DocsFinal%20Presentation.pdf) for more detailed explanation on the project.
+Read the [report](https://github.com/nsh-764/MinutiaeFingerprintMatch/blob/master/Docs/Report.pdf) and [presentation](https://github.com/nsh-764/MinutiaeFingerprintMatch/blob/master/Docs/Final%20Presentation.pdf) for more detailed explanation on the project.
 
-Test outputs results are available [here](https://github.com/nsh-764/MinutiaeFingerprintMatch/Docs/Results%20on%20Testset.pdf)
+Test outputs results are available [here](https://github.com/nsh-764/MinutiaeFingerprintMatch/blob/master/Docs/Results%20on%20Testset.pdf)
 
